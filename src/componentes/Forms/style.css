@@ -1,0 +1,10 @@
+#form{
+ 
+  box-shadow: 0 0 12px #8e7676;
+  padding: 20px;
+}
+
+#form .error{
+  color: red;
+  padding: 10px;
+}

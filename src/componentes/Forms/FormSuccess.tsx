@@ -1,7 +1,6 @@
 import React from 'react'
 import './style.css'
 import Typography from '@material-ui/core/Typography';
-import Button from '@material-ui/core/Button';
 
 interface props  {
     handleReset : () => void 
